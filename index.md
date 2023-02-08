@@ -1,30 +1,33 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: ""
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Focus on developing trustless apps
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Klave Network empowers developers and companies to create tamper-proof trustless applications protected by secure hardware and cryptography; expending the boundary of sensitive data management and sovereign data ownership.
+{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+[Getting started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+---
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+{: .warning }
+> This website documents the features of the current `main` branch of klave that is currently in closed alpha version.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Klave aims to provide the infrastructure railway for developer to easily develop privacy preserving trustless applications. Technologies behind confidential computing are complicated and not accessible to all developers. To keep developers focus on their critical business code, the klave network leverage on Secretarium Core to abstract away all complexity ensuring that all applications deployed runs within secure hardware enclaves, are distributed by default, and that associated ledgers stays encrypted and tamper proof at all time.
 
-To get started with creating a site, just click "[use this template]"!
+The primary focus is Privacy, developer friendliness by integrating natively within their workflow and scalability. In addition of addressing most of current solutions shortcomings (high througput, low latency, instant finality, ressources efficiency) it enables privacy preserving use cases such as the manipulation of sensitive data while keeping these secret at all time (at rest, in transit and during processing).
 
-----
+The trustlessness aspect of Klave is at the heart of the value proposal and proof of honesty can be gathered from the Network every step of the way. In additition of classic attestation such as proof of integrity and computation that can be seen in other trustless system, proof of privacy (proof that no one has access to the data on the platform even developers nor potential adverse parties having hacked into a server) is also provided by design.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Browse the docs to learn more about how to deploy your apps on Klave.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[Getting started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+---
