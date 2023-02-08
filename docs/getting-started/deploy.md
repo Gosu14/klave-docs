@@ -1,7 +1,7 @@
 ---
 layout: default
-title: deploy
-parent: getting-started
+title: Deploy
+parent: Getting started
 ---
 
 # Deploy your first app

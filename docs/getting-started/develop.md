@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Develop your first app
-parent: getting-started
+title: Develop
+parent: Getting started
 ---
 
 # Develop your first app

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Create repository
-parent: getting-started
+title: Create
+parent: Getting started
 ---
 
 # Create repository
