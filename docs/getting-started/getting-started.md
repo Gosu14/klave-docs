@@ -7,6 +7,7 @@ permalink: docs/getting-started
 ---
 
 # Getting started
+{: .no_toc }
 
 The "Getting Started" section is to help new community members start developing on Klave Network using standard tools for trustless apps development. The goal is to provide an easy guide to follow with step-by-step instructions.
 
