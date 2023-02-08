@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Develop
+nav_order: 2
 parent: Getting started
 ---
 
@@ -10,7 +11,7 @@ parent: Getting started
 
 3. Modify and play with the code
 
-![image-title-here](/assets/images/develop.png)
+![Develop your app](https://raw.githubusercontent.com/Gosu14/klave-docs/main/assets/images/develop.png)
 
 4. Build your application
 
@@ -18,7 +19,7 @@ parent: Getting started
 yarn build
 ```
 
-5. Push your repo on [GitHub](https://github.com/home)
+5. Push your folder on a [GitHub](https://github.com/home) repo
 
 [Next: Deploy your first app][deploy]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 

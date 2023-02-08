@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Create
+nav_order: 1
 parent: Getting started
 ---
 
@@ -13,7 +14,7 @@ yarn create trustless-app
 ```
 
 2. Follow-up instructions
-![image-title-here](/assets/images/yarn-create.png)
+![yarn create](https://raw.githubusercontent.com/Gosu14/klave-docs/main/assets/images/yarn-create.png)
 
 3. Go into the newly directory named after your trustless-app
 
