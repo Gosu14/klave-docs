@@ -10,15 +10,15 @@ permalink: /
 {: .fs-9 }
 
 Klave Network empowers developers and companies to create tamper-proof trustless applications protected by secure hardware and cryptography; expending the boundary of sensitive data management and sovereign data ownership.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
-[Getting started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Getting started][getting-started]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][github]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .warning }
-> This website documents the features of the current `main` branch of klave that is currently in closed alpha version.
+This website documents the features of the current `main` branch of klave that is currently in closed alpha version.
 
 Klave aims to provide the infrastructure railway for developer to easily develop privacy preserving trustless applications. Technologies behind confidential computing are complicated and not accessible to all developers. To keep developers focus on their critical business code, the klave network leverage on Secretarium Core to abstract away all complexity ensuring that all applications deployed runs within secure hardware enclaves, are distributed by default, and that associated ledgers stays encrypted and tamper proof at all time.
 
@@ -28,6 +28,8 @@ The trustlessness aspect of Klave is at the heart of the value proposal and proo
 
 Browse the docs to learn more about how to deploy your apps on Klave.
 
-[Getting started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Getting started][getting-started]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
+[getting-started]: {% link docs/getting-started/getting-started.md %}
+[github]: https://github.com/klave-network
