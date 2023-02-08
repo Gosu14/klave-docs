@@ -7,5 +7,10 @@ url: https://klave.network/
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo.png"
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 aux_links:
   GitHub: https://github.com/klave-network
