@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deploy
+title: Manage
 nav_order: 5
 parent: Getting started
 ---
