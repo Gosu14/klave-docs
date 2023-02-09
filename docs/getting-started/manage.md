@@ -7,7 +7,7 @@ parent: Getting started
 
 # Manage your app
 
-[Prev: Interact with your app][interact]{: .btn .fs-5 .mb-4 .float-left }
+[Prev: Interact with your app][interact]{: .btn }
 
 ---
 [interact]: {% link docs/getting-started/interact.md %}

@@ -21,7 +21,7 @@ yarn build
 
 5. Push your folder on a [GitHub](https://github.com/home) repo
 
-[Prev: Create repository][create]{: .btn .fs-5 .mr-2 } [Next: Deploy your first app][deploy]{: .btn .fs-5 }
+[Prev: Create repository][create]{: .btn .mr-2 .ml-0 } [Next: Deploy your first app][deploy]{: .btn }
 {: .d-flex .flex-justify-end }
 
 ---

@@ -9,8 +9,8 @@ parent: Getting started
 
 ![Request your app](https://raw.githubusercontent.com/Gosu14/klave-docs/main/assets/images/develop.png)
 
-[Prev: Deploy your first app][deploy]{: .btn .fs-5 .mb-4 .float-left }
-[Next: Manage your app][manage]{: .btn .fs-5 .mb-4 .float-right }
+[Prev: Deploy your first app][deploy]{: .btn .mr-2 .ml-0 } [Next: Manage your app][manage]{: .btn }
+{: .d-flex .flex-justify-end }
 
 ---
 [manage]: {% link docs/getting-started/manage.md %}
