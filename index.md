@@ -12,7 +12,7 @@ permalink: /
 Klave Network empowers developers and companies to create tamper-proof trustless applications protected by secure hardware and cryptography; expending the boundary of sensitive data management and sovereign data ownership.
 {: .fs-5 .fw-300 }
 
-[Getting started][getting-started]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-auto }
+[Getting started][getting-started]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][github]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
