@@ -24,7 +24,8 @@ yarn install
 
 4. Open your favorite IDE
 
-[Next: Develop your first app][develop]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Next: Develop your first app][develop]{: .btn .fs-5 }
+{: .d-flex .flex-justify-end }
 
 ---
 [develop]: {% link docs/getting-started/develop.md %}
