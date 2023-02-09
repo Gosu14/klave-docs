@@ -21,7 +21,9 @@ yarn build
 
 5. Push your folder on a [GitHub](https://github.com/home) repo
 
-[Next: Deploy your first app][deploy]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Prev: Create repository][create]{: .btn .fs-5 .mb-4 .float-left }
+[Next: Deploy your first app][deploy]{: .btn .fs-5 .mb-4 .float-right }
 
 ---
 [deploy]: {% link docs/getting-started/deploy.md %}
+[create]: {% link docs/getting-started/create-repo.md %}

@@ -9,7 +9,7 @@ parent: Getting started
 
 ![Request your app](https://raw.githubusercontent.com/Gosu14/klave-docs/main/assets/images/develop.png)
 
-[Prev: Deploy your first app][interact]{: .btn .fs-5 .mb-4 .float-left }
+[Prev: Deploy your first app][deploy]{: .btn .fs-5 .mb-4 .float-left }
 [Next: Manage your app][manage]{: .btn .fs-5 .mb-4 .float-right }
 
 ---

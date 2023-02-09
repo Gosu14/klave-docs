@@ -1,13 +1,14 @@
 title: Klave Network documentation
 description: Developer documentation for Klave Network
 theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.4.0
 
 url: https://klave.network/
 
+favicon_ico: "/assets/images/favicon.ico"
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/logo.png"
-
-remote_theme: just-the-docs/just-the-docs@v0.4.0
 
 callouts:
   warning:

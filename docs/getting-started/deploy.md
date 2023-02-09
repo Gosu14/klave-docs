@@ -15,8 +15,9 @@ parent: Getting started
 
 4. Find your application and click on deploy
 
-
-[Next: Interact with your app][interact]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Prev: Develop your first app][develop]{: .btn .fs-5 .mb-4 .float-left }
+[Next: Interact with your app][interact]{: .btn .fs-5 .mb-4 .float-right }
 
 ---
 [interact]: {% link docs/getting-started/interact.md %}
+[develop]: {% link docs/getting-started/develop.md %}

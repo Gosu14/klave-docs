@@ -3,11 +3,11 @@ layout: default
 title: Getting started
 nav_order: 2
 has_children: true
+has_toc: false
 permalink: docs/getting-started
 ---
 
 # Getting started
-{: .no_toc }
 
 The "Getting Started" section is to help new community members start developing on Klave Network using standard tools for trustless apps development. The goal is to provide an easy guide to follow with step-by-step instructions.
 
@@ -28,9 +28,10 @@ Trustless applications are developed in [TypeScript] and compiled in [WebAssembl
 [nodejs] needs to be installed beforehand to be able to use the sdk.
 The [Klave sdk package] provides the simplest, quickest, and easiest way to create a new trustless applications using typescript.
 
-[Next: Create repository][Create-repo]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Next: Create repository][Create-repo]{: .btn .fs-5 .mb-4 .float-right }
 
 ---
+
 [Klave sdk package]: https://www.npmjs.com/package/create-trustless-app
 [TypeScript]: https://www.typescriptlang.org/
 [WebAssembly]: https://webassembly.org/
