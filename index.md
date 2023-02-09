@@ -30,7 +30,7 @@ The trustlessness aspect of Klave is at the heart of the value proposal and proo
 
 Browse the docs to learn more about how to deploy your apps on Klave.
 
-[Getting started][getting-started]{: .btn .fs-5 .d-block .d-mr-0 .d-ml-auto }
+[Getting started][getting-started]{: .btn .fs-5 .d-inline-block .float-right }
 
 ---
 [getting-started]: {% link docs/getting-started/getting-started.md %}
