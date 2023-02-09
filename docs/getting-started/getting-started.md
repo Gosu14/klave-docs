@@ -28,7 +28,8 @@ Trustless applications are developed in [TypeScript] and compiled in [WebAssembl
 [nodejs] needs to be installed beforehand to be able to use the sdk.
 The [Klave sdk package] provides the simplest, quickest, and easiest way to create a new trustless applications using typescript.
 
-[Next: Create repository][Create-repo]{: .btn .fs-5 .mb-4 .float-right }
+[Next: Create repository][Create-repo]{: .btn .fs-5 }
+{: .d-flex .flex-justify-end }
 
 ---
 
