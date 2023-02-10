@@ -15,8 +15,8 @@ parent: Getting started
 
 4. Find your application and click on deploy
 
-[Prev: Develop your first app][develop]{: .btn .mr-2 .ml-0 } [Next: Interact with your app][interact]{: .btn }
-{: .d-flex .flex-justify-end }
+[Prev: Develop your first app][develop]{: .btn } [Next: Interact with your app][interact]{: .btn }
+{: .d-flex .flex-justify-between }
 
 ---
 [interact]: {% link docs/getting-started/interact.md %}
